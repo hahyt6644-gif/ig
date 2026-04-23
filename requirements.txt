@@ -1,15 +1,9 @@
-# Web Server
+ms4
+Topython
 Flask
 gunicorn
-
-# HTTP & API Requests
 requests
-urllib3
-fake-useragent
-user-agent
-
-# Data & OSINT
 pycountry
-
-# Styling & Visuals
+user-agent
+fake-useragent
 python-cfonts
