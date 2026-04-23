@@ -1,0 +1,15 @@
+# Web Server
+Flask
+gunicorn
+
+# HTTP & API Requests
+requests
+urllib3
+fake-useragent
+user-agent
+
+# Data & OSINT
+pycountry
+
+# Styling & Visuals
+python-cfonts
